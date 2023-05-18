@@ -1,0 +1,297 @@
+header {
+    font-family: 'Bebas Neue', cursive;
+    background-color: #9f309e;
+    color: #fff;
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive !important;
+    color:#9f309e;
+    font-size: 1.8em;
+    padding: 0px 0px 0px 0px;
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Libre Baskerville', serif;
+    /* font-size: 1.2em; */
+    padding:0px!important;
+    line-height: 1.5em;
+    text-align: center;
+    margin:0%;
+}
+
+#bodycremonini {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.2em;
+    padding:0px!important;
+    line-height: 1.5em;
+    text-align: center;
+    margin:0%;
+}
+
+nav {
+    padding-top: 2%;
+}
+
+nav ul li {
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Bebas Neue', cursive;
+    color:#9f309e;
+}
+
+header {
+    padding: 0px 0px 0px 0px;
+}
+
+#harryimg {
+    height: auto;
+    width: 100%;
+}
+
+.menu {
+    color: #fff;
+    letter-spacing: 0.1em;
+    text-decoration: none;
+}
+
+header, section {
+    padding: 5% 5% 0px 5%;
+}
+
+h1, h2 {
+    letter-spacing: 0.1em;
+}
+
+img {
+    float: right;
+}
+
+.pagine {
+    text-decoration: none;
+    color:#9f309e;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.8em;
+
+}
+
+.nounderline {
+    text-decoration: none;
+    padding: 15px 15px 0px 15px;  
+}
+
+nav ul li a:hover {
+  color: white;
+}
+
+.fasi {
+    text-align: left;
+}
+
+footer {
+    font-size: 0.8em;
+    background-color: #9f309e;
+    color: #fff;
+    margin: 0px;
+    padding: 0px;
+}
+
+#footerS {
+    padding: 5% 0px 0px 0px;
+    margin: 0px;
+}
+
+#bodybiglietti {
+    margin: 0px;
+}
+
+.titoloh2 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+#sectionimmagine {
+    padding: 1% 5% 0px 5%;
+}
+
+.testopaginadue {
+    padding: 0% 20% 0px 20%;
+}
+
+#pfinalehome {
+    padding: 0px 0px 5% 0px;
+}
+
+div {
+    padding: 1% 1% 1% 1%;
+}
+
+#fototrasporti {
+    height: auto;
+    width: 100%;
+}
+
+#sectiontrasporti {
+    padding: 0px 50px 0px 50px 
+}
+
+.trasporti {
+    padding-top: 4%;
+}
+
+.viola {
+    color: #9f309e;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 0.03em;
+}
+
+a:hover.viola {
+    color: #9f309e;
+}
+
+#sectionsetlist {
+    padding: 0% 5% 0% 5%;
+}
+
+ul#navSetList {
+    padding-left: 0px;
+}
+
+ul#navSetList li a:hover {
+    color: #9f309e
+}
+
+#cremonini {
+    height: auto;
+    width: 100%;
+}
+
+#harrystyles {
+    height: auto;
+    width: 100%;
+}
+
+#rosalia {
+    height: auto;
+    width: 100%;
+}
+
+#tini {
+    height: auto;
+    width: 100%;
+}
+
+#ultimo {
+    height: auto;
+    width: 100%;
+}
+
+h4 {
+    font-family: 'Bebas Neue', cursive;
+    color: #9f309e;
+    font-size: 1.8em;
+}
+
+h4 a:hover {
+    color: #9f309e;
+}
+
+.btn {
+    color: #fff;
+    background-color: #9f309e;
+}
+
+.card-title {
+    color: #9f309e;
+}
+
+a:hover.btn {
+    color: #fff;
+    background-color: #9f309e;
+}
+
+a:active.btn {
+    background-color: #9f309e;
+}
+
+.h3 {
+    color: #9f309e;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 0.7em;
+}
+
+a:hover.h3 {
+    color: #9f309e;
+}
+
+a:hover.link {
+    color: #9f309e;
+}
+
+.link {
+    color: #9f309e;
+    font-weight: bold;
+}
+
+.card {
+    margin-left: 4.2%;
+    margin-right: 4%;
+    margin-bottom: 2%;
+}
+
+#sectionpcd {
+    padding: 0px;
+}
+
+.fanaction {
+    height: auto;
+    width: 100%;
+}
+
+#harryfanaction {
+    height: auto;
+    width: 100%;
+}
+
+#linkdoc {
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+
+a:hover.linkdoc {
+    color: #fff;
+}
+
+.titolodocumentazione {
+    font-size: 2.5em;
+}
+
+#fotostruttura {
+    max-width: 100%;
+    padding: 4%;
+}
+
+.sel {
+    text-decoration: underline;
+}
+
+h5 {
+    font-family: 'Bebas Neue', cursive !important;
+    color:#9f309e;
+    font-size: 1.8em;
+    padding: 5% 0px 0px 0px;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+
+#newsletter {
+    height: auto;
+    width: 100%;
+    padding: 4%;
+}
